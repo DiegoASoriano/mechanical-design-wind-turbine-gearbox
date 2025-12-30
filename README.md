@@ -11,7 +11,7 @@ Design and prototyping of a 4-stage parallel axis gearbox for a scale-model offs
 
 ---
 
-## Project Case Study (STAR Method)
+## Project Case Study
 
 ### **Situation**
 As part of the **Delfín Research Program**, I was tasked with developing a speed multiplier for an experimental offshore wind turbine. The challenge was to achieve a high transmission ratio (near 1:100) within a compact space, ensuring the output speed was sufficient to reach the generator's nominal voltage.
@@ -34,15 +34,21 @@ My objective was to design a functional 4-stage gearbox, calculate the exact gea
 
 ## Engineering Documentation
 
-### 1. 3D Assembly & Motion Analysis
-| Full Gearbox Assembly | Internal Gear Train (4 Stages) |
-| :--- | :--- |
-| ![Assembly](media/gearbox_render.png) | ![Internal](media/gear_train.png) |
+### 1. 3D Assembly
+![Assembly](media/gearbox_assembly.jpg)
+
+| Item No. | Part Name / Description | Quantity |
+| :--- | :--- | :---: |
+| 1 | Input and output shafts | 2 |
+| 2 | Pinion with hooks | 2 |
+| 3 | Pinion | 1 |
+| 4 | Pinion and ring gear | 4 |
+| 5 | Parallel shaft | 2 |
 
 ### 2. From Digital Design to Physical Prototype
-| SolidWorks Technical Drawing | 3D Printed Prototype |
+| Gearbox measurements | 3D Printed Prototype |
 | :--- | :--- |
-| ![Drawing](media/technical_drawing.png) | ![Prototype](media/physical_model.png) |
+| ![Drawing](media/gearbox_measurements.jpg) | ![Prototype](media/3D_printed_prototype.jpg) |
 
 ## Repository Structure
 * `/cad-models`: Solidworks files
