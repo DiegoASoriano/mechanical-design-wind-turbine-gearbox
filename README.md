@@ -4,6 +4,8 @@
 ## Project Overview
 Design and prototyping of a 4-stage parallel axis gearbox for a scale-model offshore wind turbine. The system achieves a **1:81 gear ratio**, transforming an input of 10 RPM (turbine blades) to 810 RPM (generator input).
 
+[Demonstration Video](https://youtube.com/shorts/ORzG9_3kMRM?feature=share)
+
 ## Tech Stack
 * **CAD Software:** SolidWorks (CSWA Certified skills).
 * **Engineering Principles:** Gear ratio calculations, interference analysis, and DFM (Design for Manufacturing).
@@ -15,6 +17,9 @@ Design and prototyping of a 4-stage parallel axis gearbox for a scale-model offs
 
 ### **Situation**
 As part of the **Delfín Research Program**, I was tasked with developing a speed multiplier for an experimental offshore wind turbine. The challenge was to achieve a high transmission ratio (near 1:100) within a compact space, ensuring the output speed was sufficient to reach the generator's nominal voltage.
+
+### Gearbox compartment
+![Compartment](media/gearbox_compartment.jpg)
 
 ### **Task**
 My objective was to design a functional 4-stage gearbox, calculate the exact gear teeth counts for each stage, model the assembly in SolidWorks, and produce a physical prototype using 3D printing to validate mechanical clearances and smooth operation.
