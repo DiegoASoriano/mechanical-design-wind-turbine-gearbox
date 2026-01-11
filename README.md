@@ -64,5 +64,5 @@ My objective was to design a functional 4-stage gearbox, calculate the exact gea
 
 ---
 **Contact Information**
-* **Diego Armando Soriano Sánchez** - [LinkedIn](https://www.linkedin.com/in/diego-soriano-30381b220/)
+* **Diego Armando Soriano Sánchez** - [LinkedIn](https://www.linkedin.com/in/diego-soriano-eng/)
 * **Email:** diegoarmando.sori@gmail.com
